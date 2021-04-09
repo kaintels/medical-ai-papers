@@ -1,4 +1,4 @@
-# medical-ai-paper
+# Medical AI papers
 
 * [Pre-Processing](#pre-processing)
 * [Blood Pressure](#blood-pressure)
