@@ -2,7 +2,7 @@
 
 > __Note__ 
 
-**If you have any contribution, eel free to send us a PR. thank you.**
+**If you have any contribution, feel free to send us a PR. thank you.**
 
 * [Pre-Processing](#pre-processing)
 * [Blood Pressure](#blood-pressure)
