@@ -7,7 +7,8 @@
 * [Pre-Processing](#pre-processing)
 * [Blood Pressure](#blood-pressure)
 * [Arrhythmia](#arrhythmia)
-* [EEG / SSVEP](#eeg--ssvep)
+* [SSVEP / BCI](#ssvep--bci)
+* [Sleep scoring](#sleep-scoring)
 * [EMG](#emg)
 * [EHG](#ehg)
 * [EOG](#eog)
@@ -42,14 +43,14 @@ Adaptive threshold method for the peak detection of photoplethysmographic wavefo
 |ECG arrhythmia classification using STFT-based spectrogram and convolutional neural network|[:arrow_right:](https://ieeexplore.ieee.org/abstract/document/8759878)|-|-|
 
 
-
-
-### EEG / SSVEP
+### SSVEP / BCI
 |Title|Link|Review|Code|
 |:---|---|:---:|:---:|
 |On the quantification of SSVEP frequency responses in human EEG in realistic BCI conditions|[:arrow_right:](<https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0077536&type=printable>)|-|-|
 |Effectiveness of Flickering Video Clips as Stimuli for SSVEP-based BCIs|[:arrow_right:](https://ieeexplore.ieee.org/abstract/document/7373134)|-|-|
 |EEG-based classification of video quality perception using steady state visual evoked potentials (SSVEPs)|[:arrow_right:](https://iopscience.iop.org/article/10.1088/1741-2560/12/2/026012/pdf)|-|-|
+
+### Sleep scoring
 
 ### EMG
 
