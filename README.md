@@ -38,17 +38,28 @@ Adaptive threshold method for the peak detection of photoplethysmographic wavefo
 |Real-time patient-specific ECG classification by 1-D convolutional neural networks|[:arrow_right:](https://ieeexplore.ieee.org/document/7202837)|-|-|
 |ECG arrhythmia classification using a 2-d convolutional neural network|[:arrow_right:](https://arxiv.org/pdf/1804.06812.pdf)|-|-|
 |A robust deep convolutional neural network with batch-weighted loss for heartbeat classification|[:arrow_right:](https://www.sciencedirect.com/science/article/abs/pii/S0957417418308054?via%3Dihub)|-|-|
+
+<details>
+<summary>More...</summary>
+<div markdown="1">
+
+|Title|Link|Review|Code|
+|:---|---|:---:|:---:|
 |Classification of ECG arrhythmia using recurrent neural networks|[:arrow_right:](https://www.sciencedirect.com/science/article/pii/S1877050918307774?via%3Dihub)|-|-|
 |ECG-based heartbeat classification for arrhythmia detection: A survey|[:arrow_right:](https://www.sciencedirect.com/science/article/pii/S0169260715003314?via%3Dihub)|-|-|
 |ECG arrhythmia classification using STFT-based spectrogram and convolutional neural network|[:arrow_right:](https://ieeexplore.ieee.org/abstract/document/8759878)|-|-|
 
+</div>
+</details>
 
 ### SSVEP / BCI
 |Title|Link|Review|Code|
 |:---|---|:---:|:---:|
 |On the quantification of SSVEP frequency responses in human EEG in realistic BCI conditions|[:arrow_right:](<https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0077536&type=printable>)|-|-|
 |Effectiveness of Flickering Video Clips as Stimuli for SSVEP-based BCIs|[:arrow_right:](https://ieeexplore.ieee.org/abstract/document/7373134)|-|-|
+|Classification of Motor Imagery BCI Using Multivariate Empirical Mode Decomposition|[:arrow_right:](https://ieeexplore.ieee.org/abstract/document/6362235)|-|-|
 |EEG-based classification of video quality perception using steady state visual evoked potentials (SSVEPs)|[:arrow_right:](https://iopscience.iop.org/article/10.1088/1741-2560/12/2/026012/pdf)|-|-|
+|Motor Imagery BCI Classification Based on Multivariate Variational Mode Decomposition|[:arrow_right:](https://ieeexplore.ieee.org/abstract/document/9714727)|-|-|
 
 ### Sleep scoring
 
