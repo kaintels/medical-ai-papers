@@ -9,10 +9,12 @@
 * [Arrhythmia](#arrhythmia)
 * [SSVEP / BCI](#ssvep--bci)
 * [Sleep scoring](#sleep-scoring)
-* [EMG](#emg)
-* [EHG](#ehg)
-* [EOG](#eog)
-* [MEG / MCG](#meg--mcg)
+* [Electromyogram](#electromyogram)
+* [Electrohysterogram](#electrohysterogram)
+* [Electrogastrogram](#electrogastrogram)
+* [Electrooculogram](#electrooculogram)
+* [Magnetoencephalogram](#magnetoencephalogram)
+* [Magnetocardiogram](#magnetocardiogram)
 * [Phonetics / Speech](#phonetics--speech)
 * [CT / MRI / fMRI](#ct--mri--fmri)
 
@@ -63,13 +65,17 @@ Adaptive threshold method for the peak detection of photoplethysmographic wavefo
 
 ### Sleep scoring
 
-### EMG
+### Electromyogram
 
-### EHG
+### Electrohysterogram
 
-### EOG
+### Electrogastrogram
 
-### MEG / MCG
+### Electrooculogram
+
+### Magnetoencephalogram
+
+### Magnetocardiogram
 
 ### Phonetics / Speech
 
